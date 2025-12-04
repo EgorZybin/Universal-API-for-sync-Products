@@ -107,7 +107,7 @@ Authorization: Bearer your_secret_key_here
       "url": "https://example.com/image1.jpg",
       "main": true,
       "title": "Главное изображение",
-      "position": "front",
+      "position": "product",
       "sort_order": 0
     }
   ]
